@@ -1,0 +1,95 @@
+.navigation{
+    margin: 1em 0 1em;
+    background: #c0c6c9;
+    padding: 2em 0 3em 5em;
+}
+.navigation a{
+    color: #000000;
+}
+.navigation small{
+    padding: 0 0 0 2em;
+}
+.navigation li{
+    padding: 0.5em 1em 0.5em 1em;
+}
+.navigation .dropdown li{
+     padding: 0.5em 0 0 ;
+}
+.navigation .dropdown .divider{
+    padding: 0;
+}
+footer{
+    background:#000000;
+    padding: 1em 0 1em 4em;
+}
+footer h3{
+    color:honeydew; 
+}
+.container.carousel{
+    padding:0 0 3em;
+}
+.container.carousel img{
+    width:1170px;
+    height:355px;
+}
+.container.carousel h2{
+    color:#000b00;
+}
+.container.carousel h4{
+    color:#eaf4fc;
+}
+.carousel.slide.container .col-md-2{
+    padding: 0;
+    margin: 0;
+}
+.text-info{
+    width: 150px;
+    /*这个根据自己需要定义，或者定义父元素宽度*/
+    display: block;
+    white-space: nowrap;
+    /*文本段落不换行*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    /*当对象内文本溢出时显示省略标记*/
+    margin-left: 1em;
+}
+.col-md-6.column{
+    padding:0;
+    margin:0;
+}
+.col-md-6.column img{
+    max-width:100%;
+}
+.page-header{
+    height: 5em;
+    background-image: url(../images/首页轮播/3.jpg)
+}
+.page-header h1{
+    margin-left:5em;
+    padding-top: 0.5em;
+    color:#3053b3;
+}
+.newbook{
+    text-align :center ;
+    font-family :LiSu ;
+    font-size:40px;
+}
+.col-md-2 column{
+    padding:0;
+    margin:0;
+}
+.col-md-2 column img{
+    max-width:100%;
+}
+#tusu{
+    margin-top: 2em;
+}
+.tab-content{
+    margin-bottom: 1.5em;
+    margin-top: 1em;
+}
+.nav.nav-tabs{
+    margin-top: 1em;
+    text-align: center;
+    padding-left: 3.5em;
+}
