@@ -1,7 +1,7 @@
 .navigation{
     margin: 1em 0 1em;
     background: #c0c6c9;
-    padding: 2em 0 3em 5em;
+    padding: 1em 0 1.5em 4em;
 }
 .navigation a{
     color: #000000;
@@ -97,4 +97,7 @@ footer h3{
     margin-top: 1em;
     text-align: center;
     padding-left: 3.5em;
+}
+.navigation a{
+    font-size: 15px;
 }
