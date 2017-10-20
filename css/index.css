@@ -101,3 +101,38 @@ footer h3{
 .navigation a{
     font-size: 15px;
 }
+
+/*导航样式*/
+#me{
+	padding-top: 1.5em;
+	padding-left: 5em;
+	padding-right: 5em;
+	padding-bottom: 1em;
+	background-color: #f5f5dc;
+}
+.dropdown .glyphicon{
+	position: relative;
+	left: 2em;
+}
+.dropdown .glyphicon.glyphicon-send{
+	position: relative;
+	left: 1em;
+}
+.navbar-brand{
+	font-size: 200%;
+	font-weight:600;
+}
+.nav.nav-pills a{
+	font-size: 150%;
+	font-weight:400;
+}
+.mainbody{
+	margin-top: 0px;
+}
+.nav.nav-pills .dropdown-menu{
+	min-width: 110px;
+}
+.nav.nav-pills .dropdown-menu li a{
+	font-size: 100%;
+	font-weight:300;
+}
