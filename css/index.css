@@ -61,9 +61,9 @@ footer h3{
     max-width:100%;
 }
 .page-header.container{
-    padding-top: 1em;
-    padding-bottom:1em; 
-    background-image: url(../images/首页轮播/3.jpg)
+    background-image: url(../images/首页轮播/3.jpg);
+    max-width: 900px;
+    margin: 0,auto;
 }
 .page-header.container .zhuti{
     margin-left:5em;
@@ -78,13 +78,6 @@ footer h3{
     text-align :center ;
     font-family :LiSu ;
     font-size:40px;
-}
-.col-md-2 column{
-    padding:0;
-    margin:0;
-}
-.col-md-2 column img{
-    max-width:100%;
 }
 #tusu{
     margin-top: 2em;
@@ -123,11 +116,11 @@ footer h3{
 	font-weight:600;
 }
 .nav.nav-pills a{
-	font-size: 150%;
-	font-weight:400;
+	font-size: 100%;
+	font-weight:300;
 }
 .mainbody{
-	margin-top: 0px;
+	margin-top: 90px;
 }
 .nav.nav-pills .dropdown-menu{
 	min-width: 110px;
